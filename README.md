@@ -23,6 +23,10 @@ xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools
 
 then run xcode-select --install and wait for it to finish then try to run make again.
 
+needed Libaries:
+the midibus 
+openKinect
+
 
 Credits to Killeroo for the ColorGenenrator class (https://www.openprocessing.org/sketch/504589) Source for the Git hook to prevent pushes to master: https://blog.ghost.org/prevent-master-push/
 
