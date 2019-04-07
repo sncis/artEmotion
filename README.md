@@ -1,18 +1,11 @@
 # artEmotion
 Processing  project with Kinect and Ableton
 
-# set up
-Clone this project
+# Set Up
+Clone this project you need to have processing installed and added to your path 
+(instructions can be found here https://github.com/TobiahZ/processing-vscode#alternate-method )
 
-run cd Art-e-motion
-
-run make
-
-If you get the following error:
-
-xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
-
-then run xcode-select --install and wait for it to finish then try to run make again.
+run cd `artEmotion`
 
 run cd main
 
@@ -23,6 +16,12 @@ open the main.pde.
 if its the first time, make sure you have the "Processing Language" extension installed in VSCode and the processing IDE (https://processing.org/download/), open the processing IDE, go to tools/install "Processing-java" then return to VSCode and run command + shift + p, search for "task" and choose Processing: Create Task File.
 
 run command + shift + b and enjoy!
+
+If you get the following error:
+
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+then run xcode-select --install and wait for it to finish then try to run make again.
 
 
 Credits to Killeroo for the ColorGenenrator class (https://www.openprocessing.org/sketch/504589) Source for the Git hook to prevent pushes to master: https://blog.ghost.org/prevent-master-push/
