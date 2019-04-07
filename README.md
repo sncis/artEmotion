@@ -27,4 +27,4 @@ run command + shift + b and enjoy!
 
 Credits to Killeroo for the ColorGenenrator class (https://www.openprocessing.org/sketch/504589) Source for the Git hook to prevent pushes to master: https://blog.ghost.org/prevent-master-push/
 
-Collaborators davidcoroian and AstiV
+project in collaoration with  davidcoroian and AstiV
